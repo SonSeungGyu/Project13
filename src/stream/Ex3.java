@@ -45,7 +45,7 @@ public class Ex3 {
 		//System.out.println(intStream.sum());
 		
 		//Stream은  sum, max 같은 함수를 사용할 수 없음
-		
+			
 		
 		//리스트 생성
 		List<String> strList = Arrays.asList("aaa","bbb","ccc");
